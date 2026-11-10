@@ -7,6 +7,14 @@ I currently work in IT implementatio, helping clients with technical solutions, 
 
 I'm continuously improving my progamming skills and building practical projects.
 
+## Technologies I'm learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,ts,postgresql,sqlite,nodejs,express,postman" />
+  </a>
+</p>
+
 - 💻 Apaixonado pela área tech e criar soluções para as pessoas.
 - 💼 Trabalho atualmente como Analista de Suporte Júnior na empresa <a href="https://www.linx.com.br/">Linx</a>
 - 🎓 Formado em **FullStack** pela <a href="https://www.labenu.com.br/">Labenu</a> e em **Back-End** pela <a href="https://cubos.academy/">Cubos Academy</a>.
@@ -23,11 +31,6 @@ ___
 
 <h3 align="center">💻 Habilidades</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,ts,postgresql,sqlite,nodejs,express,postman" />
-  </a>
-</p>
 
 ___
 
