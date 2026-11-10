@@ -16,8 +16,8 @@ I'm continuously improving my progamming skills and building practical projects.
 </p>
 
 <h3> Current Goals </h3>
-- 💻 <p>Improve my problem-solving skills</p>
-- 💼 <p>Build real-world web applications</p>
+- <p>💻 Improve my problem-solving skills</p>
+- <p>💼 Build real-world web applications</p>
 - 🎓 Improve my technical English
 - 🎮 Prepare for international opportunities
 ___
