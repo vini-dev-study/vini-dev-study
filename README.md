@@ -7,11 +7,19 @@ I currently work in IT implementatio, helping clients with technical solutions, 
 
 I'm continuously improving my progamming skills and building practical projects.
 
-<h2 align="center">💻 Technologies I'm learning </h3>
+<h2 align="center">💻 Currently learning </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,ts,postgresql,sqlite,nodejs,express,postman" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,ts,postgresql,sqlite,nodejs,express," />
+  </a>
+</p>
+
+<h2 align="center">💻 Familiar with </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,postman,github,vercel,vscode" />
   </a>
 </p>
 
