@@ -22,25 +22,13 @@ ___
 <p>💼 Build real-world web applications</p>
 <p>🎓 Improve my technical English</p>
 <p>🎮 Prepare for international opportunities</p>
+
 ___
-<h3 align="center">😁 Se conecte e entre em contato comigo!</h3>
+
+<h3 align="center">😁 Let's connect!</h3>
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=5511966397027" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"     target="_blank"></a>
   <a href = "mailto:vinicius_gnascimento2013@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vini-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
-
-___
-
-
-<div align="center">
-  <h3><b>Visitas ao Perfil</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/gomesvini/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
 </p>
 
