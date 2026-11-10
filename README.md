@@ -3,6 +3,10 @@
 # ✌🏾 Hi, I'm Vinícius!
 ## I'm a Junior Implementation Analyst transitioning into Full Stack Development!
 
+I currently work in IT implementatio, helping clients with technical solutions, troubleshooting and platform configuration.
+
+I'm continuously improving my progamming skills and building practical projects.
+
 - 💻 Apaixonado pela área tech e criar soluções para as pessoas.
 - 💼 Trabalho atualmente como Analista de Suporte Júnior na empresa <a href="https://www.linx.com.br/">Linx</a>
 - 🎓 Formado em **FullStack** pela <a href="https://www.labenu.com.br/">Labenu</a> e em **Back-End** pela <a href="https://cubos.academy/">Cubos Academy</a>.
