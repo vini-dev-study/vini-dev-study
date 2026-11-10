@@ -1,7 +1,7 @@
 <img align="right" src="https://spread.com.br/wp-content/uploads/2020/06/anima-desenvolvimento-agil.gif" width="300"/> 
 
 # ✌🏾 Hi, I'm Vinícius!
-## I'm a Junior Implementation Analyst transitioning into Full Stack Development!
+## I'm a Junior Implementation Analyst transitioning into Full Stack Development, with experience in IT implementation, technical support, and problem-solving!
 
 I currently work in IT implementatio, helping clients with technical solutions, troubleshooting and platform configuration.
 
