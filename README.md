@@ -7,7 +7,7 @@ I currently work in IT implementatio, helping clients with technical solutions, 
 
 I'm continuously improving my progamming skills and building practical projects.
 
-<h3 align="center"> Technologies I'm learning </h3>
+<h3 align="center">💻 Technologies I'm learning </h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,8 +16,8 @@ I'm continuously improving my progamming skills and building practical projects.
 </p>
 
 <h3> Current Goals </h3>
-- 💻 Improve my problem-solving skills
-- 💼 Build real-world web applications
+- 💻 <p>Improve my problem-solving skills</p>
+- 💼 <p>Build real-world web applications</p>
 - 🎓 Improve my technical English
 - 🎮 Prepare for international opportunities
 ___
