@@ -15,7 +15,7 @@ I'm continuously improving my progamming skills and building practical projects.
   </a>
 </p>
 
-<h3> Current Goals </h3>
+<h3 align="center">📈 Current Goals </h3>
 <p>💻 Improve my problem-solving skills</p>
 <p>💼 Build real-world web applications</p>
 <p>🎓 Improve my technical English</p>
