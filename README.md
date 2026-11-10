@@ -15,7 +15,9 @@ I'm continuously improving my progamming skills and building practical projects.
   </a>
 </p>
 
-<h3 align="center">📈 Current Goals </h3>
+___
+
+<h3>📈 Current Goals </h3>
 <p>💻 Improve my problem-solving skills</p>
 <p>💼 Build real-world web applications</p>
 <p>🎓 Improve my technical English</p>
@@ -28,9 +30,7 @@ ___
   <a href="https://www.linkedin.com/in/vini-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
-___
 
-<h3 align="center">💻 Habilidades</h3>
 
 
 ___
