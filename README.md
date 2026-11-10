@@ -1,7 +1,7 @@
 <img align="right" src="https://spread.com.br/wp-content/uploads/2020/06/anima-desenvolvimento-agil.gif" width="300"/> 
 
-# ✌🏾 Olá, me chamo Vinícius!
-## Sou Desenvolvedor de software!
+# ✌🏾 Hi, I'm Vinícius!
+## I'm a Junior Implementation Analyst transitioning into Full Stack Development!
 
 - 💻 Apaixonado pela área tech e criar soluções para as pessoas.
 - 💼 Trabalho atualmente como Analista de Suporte Júnior na empresa <a href="https://www.linx.com.br/">Linx</a>
