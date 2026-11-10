@@ -30,41 +30,6 @@ ___
   <a href="https://www.linkedin.com/in/vini-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
-
-
-
-___
-
-<h3 align="center">📚 Aprendendo</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,bootstrap,tailwind,idea,kotlin,vue" />
-  </a>
-</p>
-
-___
-<h3 align="center">📈 Git Status</h3>
-
-<div display="flex" align="center" justify-content="space-around">
-  <img margin-left="5px" height="150em" src="https://github-readme-stats.vercel.app/api?username=gomesvini&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>        
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gomesvini&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>  
-</div>
-
-___
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=gomesvini&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
 ___
 
 
