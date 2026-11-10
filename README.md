@@ -7,7 +7,7 @@ I currently work in IT implementatio, helping clients with technical solutions, 
 
 I'm continuously improving my progamming skills and building practical projects.
 
-<h2 align="center">💻 Currently learning </h2>
+<h2 align="center">⏳ Currently learning </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
