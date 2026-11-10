@@ -16,10 +16,10 @@ I'm continuously improving my progamming skills and building practical projects.
 </p>
 
 <h3> Current Goals </h3>
-- <p>💻 Improve my problem-solving skills</p>
-- <p>💼 Build real-world web applications</p>
-- 🎓 Improve my technical English
-- 🎮 Prepare for international opportunities
+<p>💻 Improve my problem-solving skills</p>
+<p>💼 Build real-world web applications</p>
+<p>🎓 Improve my technical English</p>
+<p>🎮 Prepare for international opportunities</p>
 ___
 <h3 align="center">😁 Se conecte e entre em contato comigo!</h3>
 <p align="center">
